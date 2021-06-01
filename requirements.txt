@@ -29,5 +29,5 @@ six==1.11.0
 smmap2==2.0.3
 static3==0.7.0
 stripe==1.68.0
-urllib3==1.22
+urllib3==1.26.5
 WebOb==1.7.4
